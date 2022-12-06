@@ -76,3 +76,4 @@
 >  C:\HybirdProject(폴더명)\platforms\android 선택하고 설정 다운로드 다 될때 까지 기다리기   
 
 ## 완성본
+![완성본](cordova.png)
