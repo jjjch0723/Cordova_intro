@@ -1,7 +1,7 @@
 # Cordova_intro
-  +SelfIntro_by_githjub
+  + SelfIntro_by_githjub
   + <https://jjjch0723.github.io/>
-  +SelfIntro_by_netlify
+  + SelfIntro_by_netlify
   + <https://633b025bb5fa0a10a4820aed--taupe-crepe-171ee2.netlify.app/>
 * * *
 ## 1. 준비물 및 준비사항
